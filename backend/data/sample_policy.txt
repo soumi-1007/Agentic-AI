@@ -1,0 +1,23 @@
+# ==============================================================================
+# MOCK E-COMMERCE RETURN & REFUND POLICY
+# Note: This is sample mock data created for demonstration and testing purposes.
+# Replace this file with your official company policy document.
+# ==============================================================================
+
+[SECTION: Return Window]
+Customers may return eligible items within 30 days of the delivery date for a full refund.
+
+[SECTION: Return Conditions]
+Items must be unused, unworn, and in their original packaging with all original tags attached. Customized items, final sale clearance items, and perishable goods are not eligible for return.
+
+[SECTION: Refund Processing Time]
+Once the returned package is received and inspected at our warehouse, refunds will be processed back to the original payment method within 5 to 7 business days. Bank processing times may vary.
+
+[SECTION: Return Shipping Fees]
+Return shipping is free for damaged, defective, or incorrect items sent by our mistake. For standard returns or change of mind, a flat return shipping fee of $5.99 will be deducted from the total refund amount.
+
+[SECTION: Item Exchanges]
+We do not offer direct exchanges. Customers who wish to exchange an item should return the original item for a refund and place a new order for the desired item.
+
+[SECTION: International Returns]
+International orders are eligible for return within 45 days of delivery date. International customers are responsible for all return shipping costs, customs duties, and local taxes.
